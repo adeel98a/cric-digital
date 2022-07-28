@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cric Digital</string>
+    <string name="et_phone">Phone Number</string>
+    <string name="et_otp">Enter OTP</string>
+    <string name="txt_login">Continue With Phone Number</string>
+    <string name="login_btn">Next</string>
+    <string name="continue_btn">Continue</string>
+</resources>
